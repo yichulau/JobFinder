@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "576278069347",
+    "firebase_url": "https://jfinder-80d55.firebaseio.com",
+    "project_id": "jfinder-80d55",
+    "storage_bucket": "jfinder-80d55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576278069347:android:f93859242d8e0e2a",
+        "android_client_info": {
+          "package_name": "com.example.user1.jobfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576278069347-8hes6h1h9j7ooktpj0dfisult0rks9hs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user1.jobfinder",
+            "certificate_hash": "e4602ead1634c7217a04694d2db03fbc27f0f480"
+          }
+        },
+        {
+          "client_id": "576278069347-cokeaqpvdmpqqebgkdiv2m47uqvfbd3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8VlccQJpVT5fGidWcAjbGM7Q3XAl3OHw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "576278069347-cokeaqpvdmpqqebgkdiv2m47uqvfbd3h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

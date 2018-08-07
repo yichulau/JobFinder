@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/nav_home" android:title="dashboard" android:icon="@drawable/ic_android_black_24dp"/>
+    <item android:id="@+id/event" android:title="event" android:icon="@drawable/ic_android_black_24dp"/>
+    <item android:id="@+id/search" android:title="search" android:icon="@drawable/ic_android_black_24dp"/>
+    <item android:id="@+id/settings" android:title="settings" android:icon="@drawable/ic_android_black_24dp"/>
+    <item android:id="@+id/activities" android:title="activities" android:icon="@drawable/ic_android_black_24dp"/>
+    <item android:id="@+id/logout" android:title="log out" android:icon="@drawable/ic_android_black_24dp"/>
+</menu>
